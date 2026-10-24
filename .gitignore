@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+
+# STM32 / Build files
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
