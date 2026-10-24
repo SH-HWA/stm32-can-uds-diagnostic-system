@@ -20,3 +20,7 @@ Release/
 *.elf
 *.bin
 *.hex
+
+# IDE Metadata
+metadata/
+.metadata/
