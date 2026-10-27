@@ -46,7 +46,7 @@ CAN 2.0B 통신을 기반으로 데이터 텔레메트리, 원격 모드 제어,
 | **I2C1** | PB6 / PB7 | SCL / SDA (BH1750 Sensor & 1602 LCD) |
 | **GPIO** | PA5 (or PB0) | Headlight Actuator Control (Relay Out) |
 
-![Hardware Setup](./project_hardware.jpg)
+![Hardware Setup](./project_hardware_explained.png)
 *(사진 캡션: STM32 Nucleo, CANable 1.0, BH1750 센서 및 LCD 벤치 구동 환경)*
 
 ---
