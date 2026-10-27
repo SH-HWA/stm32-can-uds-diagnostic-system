@@ -48,6 +48,7 @@ CAN 2.0B 통신을 기반으로 데이터 텔레메트리, 원격 모드 제어,
 
 ![Hardware Setup](./project_hardware.jpg)
 *(사진 캡션: STM32 Nucleo, CANable 1.0, BH1750 센서 및 LCD 벤치 구동 환경)*
+
 ---
 
 ## 📡 4. CAN 통신 및 UDS 진단 프로토콜 명세 (Protocol Specification)
